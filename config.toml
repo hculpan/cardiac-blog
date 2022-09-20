@@ -10,6 +10,6 @@ params.github = "https://github.com/hculpan"
 params.twitter = "https://twitter.com/hculpan"
 params.email = "harry@culpan.org"
 
-params.intro = true
+params.intro = false
 params.headline = "CARDIAC for DOS"
-params.description = "Developing a CARDIAC emulator using Turbo C++ for MS-DOS"
+params.description = "Developing a [CARDIAC](https://en.wikipedia.org/wiki/CARDboard_Illustrative_Aid_to_Computation) emulator using Turbo C++ for MS-DOS"

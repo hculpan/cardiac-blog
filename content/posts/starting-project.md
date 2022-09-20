@@ -18,7 +18,7 @@ My goals for this project are:
 3. To relive one of my favorite programming projects and drink in the nostalgia! :smiley:
 
 # What is CARDIAC?
-![The authors copy of CARDIAC](/IMG_1056.jpg)
+![My copy of CARDIAC](/IMG_1056.jpg)
 
 CARDIAC is a teaching tool produced by Bell Labs in 1968.  Most people didn't access to a computer to learn on, so the authors developed a cardboard computer utilizing the student's brain as the CPU.  
 
