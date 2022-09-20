@@ -1,0 +1,15 @@
+baseURL = 'https://rc202210.culpan.org/'
+languageCode = 'en-us'
+title = 'CARDIAC for DOS'
+theme = 'ghostwriter'
+copyright = 'Harry Culpan'
+author.name = 'Harry Culpan'
+enableEmoji = true
+
+params.github = "https://github.com/hculpan"
+params.twitter = "https://twitter.com/hculpan"
+params.email = "harry@culpan.org"
+
+params.intro = true
+params.headline = "CARDIAC for DOS"
+params.description = "Developing a CARDIAC emulator using Turbo C++ for MS-DOS"
