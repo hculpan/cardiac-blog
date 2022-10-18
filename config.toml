@@ -5,6 +5,7 @@ theme = 'ghostwriter'
 copyright = 'Harry Culpan'
 author.name = 'Harry Culpan'
 enableEmoji = true
+markup.goldmark.renderer.unsafe = true
 
 params.github = "https://github.com/hculpan"
 params.twitter = "https://twitter.com/hculpan"
